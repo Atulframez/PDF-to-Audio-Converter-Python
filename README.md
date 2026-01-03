@@ -29,7 +29,6 @@ PDF-to-Audio-Converter-Python/
 ---
 ## 📦 Installation
 Install all required libraries using:
-```bash
 pip install -r requirements.txt
 ▶️ How to Use
 Place your PDF file in the project folder
