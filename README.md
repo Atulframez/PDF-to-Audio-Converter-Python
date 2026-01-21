@@ -1,4 +1,4 @@
-# 📄🔊 PDF to Audio Converter (Python)
+## 📄🔊 PDF to Audio Converter (Python)
 
 This project is a **Python-based PDF to Audio Converter** that reads text from a PDF file and converts it into an **MP3 audio file** using **Google Text-to-Speech (gTTS)**.
 
@@ -30,7 +30,7 @@ PDF-to-Audio-Converter-Python/
 ## 📦 Installation
 Install all required libraries using:
 pip install -r requirements.txt
-▶️ How to Use
+## ▶️ How to Use
 Place your PDF file in the project folder
 Rename it to name.pdf (or update filename in code)
 Run the script:
@@ -48,10 +48,10 @@ Working with PDF files in Python
 Text-to-Speech conversion
 File handling and automation
 Building real-world utility scripts
-⚠️ Notes
+## ⚠️ Notes
 Requires an active internet connection (gTTS)
 Works best with text-based PDFs (not scanned images)
-👨‍💻 Author
+## 👨‍💻 Author
 Atul Anand
 BCA (Hons), Amity University Noida
 ⭐ If you find this project useful, don’t forget to star the repository!
